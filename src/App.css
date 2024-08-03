@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+/* warehouse */
+.warehouse{
+    text-align: center;
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
+
+.warehouse ul li{
+   list-style: none;
+}
+.warehouse ul{
+    /* text-decoration: none; */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem 2rem;
+}
+.warehouse-card p{
+    color: black;
+    /* text-decoration: underline; */
+}
+.warehouse-card{
+    border: 1px solid black;
+    width: 400px;
+    padding: 10px 10px;
+    border-radius: 20px;
+    /* background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);  */
+    background-color: rgb(221, 217, 217);
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.warehouse-card img{
+    width: 100%;
+    border-radius: 5px;
+}
+.warehouse-name{
+    font-size: 26px;
+    font-weight: 600;
+    padding: 30px 0;
+}
+.warehouse .warehouse-details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding-bottom: 40px;
+}
+.warehouse .warehouse-details div{
+    text-align: start;
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.warehouse h1{
+    font-size: 52px;
+    padding: 50px;
+}
+
+@media (max-width:400px) {
+    .warehouse-card{
+        width: 300px;
+    }
+}
+@media (max-width:300px) {
+    .warehouse-card{
+        width: 250px;
+    }
+}
+
+
+
+                      /* filter  */
+
+.filter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.filter input{
+    padding: 10px 30px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.filter button{
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin-left: 40px;
+}
+
+
+
+
+                                            /* edit-warehouse */
+
+
+.edit-warehouse {
+    background-image: url("https://images.unsplash.com/photo-1534536694111-2cd936f8954c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM5fHx3YXJlaG91c2V8ZW58MHx8MHx8fDA%3D");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.edit-warehouse form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.edit-warehouse form input ,.edit-warehouse form select{
+    padding: 10px 30px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.edit-warehouse form button{
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.edit-warehouse h1{
+    font-size: 42px;
+    text-align: center;
+    padding: 50px 0;
+}

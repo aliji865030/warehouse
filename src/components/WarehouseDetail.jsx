@@ -31,7 +31,7 @@ const WarehouseDetail = () => {
   if (!warehouse) return <div>Loading...</div>;
 
   return (
-    <div>
+    <div className='edit-warehouse'>
       <h1>Edit Warehouse</h1>
       <form onSubmit={handleSubmit}>
         <input name="name" value={formData.name} onChange={handleChange} />

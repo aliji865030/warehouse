@@ -14,7 +14,7 @@ const Filter = ({ onFilter }) => {
   };
 
   return (
-    <form onSubmit={handleSubmit}>
+    <form onSubmit={handleSubmit} className='filter'>
       <input name="name" placeholder="Search by name" onChange={handleChange} />
       <input name="city" placeholder="City" onChange={handleChange} />
       <input name="cluster" placeholder="Cluster" onChange={handleChange} />

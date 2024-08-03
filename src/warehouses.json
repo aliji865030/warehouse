@@ -8,7 +8,8 @@
       "type" : "Leasable Space",
       "cluster" : "cluster-a-32",
       "is_registered" : true,
-      "is_live" : false
+      "is_live" : false,
+      "src":"https://images.unsplash.com/photo-1664382953403-fc1ac77073a0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8d2FyZWhvdXNlfGVufDB8fDB8fHww"
     },
     {
       "name" : "Warehouse-276",
@@ -19,7 +20,8 @@
       "type" : "Warehouse Service",
       "cluster" : "cluster-a-1",
       "is_registered" : true,
-      "is_live" : false
+      "is_live" : false,
+      "src":"https://images.unsplash.com/photo-1605371924599-2d0365da1ae0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHdhcmVob3VzZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "name" : "Warehouse-3039",
@@ -30,7 +32,8 @@
       "type" : "Warehouse Service",
       "cluster" : "cluster-a-1",
       "is_registered" : true,
-      "is_live" : false
+      "is_live" : false,
+      "src":"https://images.unsplash.com/photo-1576669801820-a9ab287ac2d1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHdhcmVob3VzZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "name" : "Warehouse-324",
@@ -41,7 +44,8 @@
       "type" : "Leasable Space",
       "cluster" : "cluster-a-21",
       "is_registered" : true,
-      "is_live" : false
+      "is_live" : false,
+      "src":"https://images.unsplash.com/photo-1685483749753-0dab7e144794?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fHdhcmVob3VzZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "name" : "Warehouse-5454",
@@ -52,7 +56,8 @@
       "type" : "Warehouse Service",
       "cluster" : "cluster-a-21",
       "is_registered" : true,
-      "is_live" : false
+      "is_live" : false,
+      "src":"https://images.unsplash.com/photo-1672552228078-f88635bef06d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHdhcmVob3VzZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "name" : "Warehouse-4345",
@@ -63,7 +68,8 @@
       "type" : "Leasable Space",
       "cluster" : "cluster-a-21",
       "is_registered" : true,
-      "is_live" : false
+      "is_live" : false,
+      "src":"https://images.unsplash.com/photo-1710141530542-f792450e736e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fHdhcmVob3VzZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "name" : "Warehouse-3455",
@@ -74,7 +80,8 @@
       "type" : "Leasable Space",
       "cluster" : "cluster-a-2",
       "is_registered" : true,
-      "is_live" : false
+      "is_live" : false,
+      "src":"https://images.unsplash.com/photo-1672552226604-4ab36b7e5ca6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fHdhcmVob3VzZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "name" : "Warehouse-23455",
@@ -85,7 +92,8 @@
       "type" : "Warehouse Service",
       "cluster" : "cluster-a-21",
       "is_registered" : true,
-      "is_live" : true
+      "is_live" : true,
+      "src":"https://images.unsplash.com/photo-1627915589334-14a3c3e3a741?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fHdhcmVob3VzZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "name" : "Warehouse-6457",
@@ -96,7 +104,8 @@
       "type" : "Warehouse Service",
       "cluster" : "cluster-a-1",
       "is_registered" : true,
-      "is_live" : false
+      "is_live" : false,
+      "src":"https://images.unsplash.com/photo-1543857182-251c68b228b0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTh8fHdhcmVob3VzZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "name" : "Warehouse-32456",
@@ -107,7 +116,8 @@
       "type" : "Warehouse Service",
       "cluster" : "cluster-a-1",
       "is_registered" : true,
-      "is_live" : true
+      "is_live" : true,
+      "src":"https://images.unsplash.com/photo-1622030411594-c282a63aa1bc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjJ8fHdhcmVob3VzZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "name" : "Warehouse-3245678",
@@ -118,7 +128,8 @@
       "type" : "Leasable Space",
       "cluster" : "cluster-v-2",
       "is_registered" : true,
-      "is_live" : false
+      "is_live" : false,
+      "src":"https://images.unsplash.com/photo-1644079446600-219068676743?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjZ8fHdhcmVob3VzZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "name" : "Warehouse-4567",
@@ -129,7 +140,8 @@
       "type" : "Warehouse Service",
       "cluster" : "cluster-a-1",
       "is_registered" : true,
-      "is_live" : true
+      "is_live" : true,
+      "src":"https://images.unsplash.com/photo-1661157072508-c34b1dc84b94?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzF8fHdhcmVob3VzZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "name" : "Warehouse-458",
@@ -140,6 +152,7 @@
       "type" : "Leasable Space",
       "cluster" : "cluster-a-1",
       "is_registered" : true,
-      "is_live" : false
+      "is_live" : false,
+      "src":"https://images.unsplash.com/photo-1689942010216-dc412bb1e7a9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzh8fHdhcmVob3VzZXxlbnwwfHwwfHx8MA%3D%3D"
     }
   ]
